@@ -29,7 +29,7 @@ The t-digest algorithm is designed for calculating approximate quantiles (percen
 To compile and run the provided test example, use the following commands:
 
 ```sh
-g++ tdigest.cpp tdigest_test.cpp -o tdigest_test
+g++ -std=c++17 -o tdigest_test tdigest.cpp tdigest_test.cpp
 ./tdigest_test
 
 ### Example Output
