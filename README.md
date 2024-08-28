@@ -53,4 +53,3 @@ Total number of centroids: 859
 85th percentile: 8494.68 (calculation time: 16.442 microseconds)
 90th percentile: 8995.59 (calculation time: 17.095 microseconds)
 95th percentile: 9499.52 (calculation time: 18.657 microseconds)
-Final number of centroids after percentile calculations: 859
