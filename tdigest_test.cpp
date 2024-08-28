@@ -51,7 +51,5 @@ int main(int argc, char *argv[]) {
                   << " (calculation time: " << elapsed.count() << " microseconds)" << std::endl;
     }
 
-    std::cout << "Final number of centroids after percentile calculations: " << T.getCentroidCount() << std::endl;
-
     return 0;
 }
